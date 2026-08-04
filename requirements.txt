@@ -10,3 +10,4 @@ sqlalchemy
 python-dotenv
 pydantic
 email-validator
+PyMuPDF
