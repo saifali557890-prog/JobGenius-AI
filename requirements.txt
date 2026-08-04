@@ -1,6 +1,6 @@
 streamlit
 sentence-transformers
-torch--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 faiss-cpu
 psycopg2-binary
 pandas
