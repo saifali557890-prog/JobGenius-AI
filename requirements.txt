@@ -8,3 +8,5 @@ plotly
 numpy
 sqlalchemy
 python-dotenv
+pydantic
+email-validator
